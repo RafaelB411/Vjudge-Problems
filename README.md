@@ -1,3 +1,3 @@
 # Vjudge-Problems
 
-Vjudge problems solved as exercises for IF672.
+Vjudge problems solved as practice for IF672.
